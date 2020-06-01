@@ -30,7 +30,7 @@
 				<cloudHubDeployment>
 				<username>Garvit_Maheshwari4</username>
 				<environment>Sandbox</environment>
-				<applicationName>worldtimezone-service</applicationName>
+				<applicationName>worldtimeAPI-service</applicationName>
 				<workerType>Micro</workerType>
 				<password>Garvit44@</password>
 				<muleVersion>4.2.2</muleVersion>
