@@ -28,6 +28,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
+				<objectStoreV2>true</objectStoreV2> 
 				<username>Garvit_Maheshwari4</username>
 				<environment>Sandbox</environment>
 				<applicationName>worldtimeAPI-service</applicationName>
